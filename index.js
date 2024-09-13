@@ -8,7 +8,7 @@ app.use(express.urlencoded({extended: false}))
 
 // Configura la ruta raíz
 app.get('/', (req, res) => {
-  res.send('Hola desde modo API en curso');
+  res.send('Hola Api');
 });
 
 // Obtener todos los productos
