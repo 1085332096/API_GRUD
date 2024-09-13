@@ -1,4 +1,11 @@
+cls para borrar consola
 npm init -y
 node .\index.js
 npm run serve  
 npm install express
+npm install nodemon -D
+USUARIO alejandrapuerchambud2
+CONTRASEÑA Ek04WCP7z3tLKCTf
+npm install mongodb
+//mongodb+srv://alejandrapuerchambud2:<db_password>@cluster0.uljab.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+npm i mongoose
