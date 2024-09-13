@@ -1,0 +1,4 @@
+npm init -y
+node .\index.js
+npm run serve  
+npm install express
